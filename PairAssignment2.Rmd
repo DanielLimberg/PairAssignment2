@@ -1,35 +1,25 @@
 ---
-title: "Pair Assignment 2"
+title: "Proposal Collaborative Research Project"
 output: pdf_document
 bibliography:
     - Literature.bib
 ---
+*provided by Daniel Limberg & Lukas Müller*
 
-Test [@mankiw1990contribution]
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
+# Research Question and Hypothesis
 
-This is an R Markdown document. [@mankiw1990contribution]
-Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
++ HO:
++ H1: 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# Research Interest and Background
 
-```{r cars}
-summary(cars)
-```
+# Data Sources
 
-## Including Plots
+# Draft Literature Review
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Dimson et al. provide a solid and helpful introduction ^[The work of Dimson et al. was regularly updated. The 2009 edition is the most recent version available] to world's stock markets and the question of returns [@dimson2009triumph].
+Ritter finds that cross-country correlation of real stock returns and per capita GDP growth over 1900-2002 is negative which is mainly traced back to the fact that increases in capital and labor inputs (i.e. two main determinants of economic growth) in new corporations (i.e. representing innovation) do not necessarily imply higher dividends [@ritter2005economic].
 
 # Reference
