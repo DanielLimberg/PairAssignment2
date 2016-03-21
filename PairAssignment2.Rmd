@@ -4,7 +4,7 @@ output: pdf_document
 bibliography:
     - Literature.bib
 ---
-*provided by Daniel Limberg & Lukas Mueller*
+*provided by Mueller, Lukas & Limberg, Daniel*
 
 
 
