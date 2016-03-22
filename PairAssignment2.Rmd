@@ -10,12 +10,24 @@ In the following we propose the topic for our Final Research Project for the Col
 
 # Research Question and Hypothesis
 
-+ HO:
-+ H1: 
+This paper asks whether the financial sector is detached from the real sector by analysing the relationhsip between values of stock market indices and GDP indicators.
+
++ HO: GDP and leading stock market indices do not observe a positive relationship.
++ H1: GDP and leading stock market indices observe a positive relationship.
 
 # Research Interest and Background
 
 # Data Sources
+
+The analsis of this paper is built on unbalanced panel data that lists selected stock indices against macro-economic indicators for all countries of the world, and occurrences of natural disasters from as early as 1991 until as late as 2015.
+
+First, we downloaded six stock indices from Yahoo Finance: DAX (DE), NIKKEI (JP), FTSE100 (UK), CAC40 (FR), IBOV (BR), and OMRU (RU).
+
+These indices measure the combined stock values of firms in a country which are top performing according to a benchmark. For instance, the DAX measures the 30 most valuable firms in Germany, and the IBOV includes all Brazilian frms whose negotiabilty index added is worth 80% of all other negotiability indexes added and whish ave been traded the last year.
+
+Second, the Word Bank provides us with data on Stocks traded, total value (% of GDP), Foreign direct investment (% of GDP), Stocks traded, turnover ratio (%), GDP per capita growth (annual %), Estimated Capital stock (real 2005 USD), and GDP per capita (constant 2005 USD). The World Bank gathers their data consistetly on a yearly basis which makes the data more coherent than other sources.
+
+Third, the International Disaster Database (EM-DAT) of the Centre for Research ob the Epidemiology of Disasters (CRED) provides public data on natural disasters with the aim to help development and relief agencies mitigate the impact of these disasters. We create a variable that counts the occurences of natural disasters per year in a country but do not differentiate between the types of disaster.
 
 # Draft Literature Review
 
