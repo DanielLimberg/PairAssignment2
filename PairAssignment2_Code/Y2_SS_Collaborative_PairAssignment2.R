@@ -38,15 +38,14 @@ dis$total.affected <- NULL
 dis$total.damage <- NULL
 
 dis$country <- gsub("[^a-zA-Z0-9]","",dis$country) #get rid of special characters
-dis$country[dis$country=="AzoresIslands"] <- "Azores"
+dis$country[dis$country=="AzoresIslands"] <- "Azores Islands"
 dis$country[dis$country=="CanaryIs"] <- "Canary Islands"
 dis$country[dis$country=="CentralAfricanRepublic"] <- "Central African Republic"
 dis$country[dis$country=="LaoPeoplesDemocraticRepublicthe"] <- "Laos"
 dis$country[dis$country=="Runion"] <- "Reunion"
 dis$country[dis$country=="SaintLucia"] <- "Saint Lucia"
 dis$country[dis$country=="SerbiaMontenegro"] <- "Serbia"
-dis$country[dis$country=="VirginIslandUS"] <- "Virgin Island US"
-
+dis$country[dis$country=="VirginIslandUS"] <- "U.S. Virgin Islands"
 
 
 
