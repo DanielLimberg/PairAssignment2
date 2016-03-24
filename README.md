@@ -4,6 +4,8 @@
 
 In this repository we provide the pair assignment 2 for the Collaborative Social Science Class at the HSoG: A first draft for the Research Proposal of our final project. 
 
+The folder contains the Bibliography-file, the Rmarkdown-file and the final .pdf-file.
+
 ##Link to authors GitHub pages
 [Daniel Limberg](https://github.com/DanielLimberg)
 
